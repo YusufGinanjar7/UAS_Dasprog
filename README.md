@@ -71,7 +71,7 @@ sudah diinput, akan menampilkan bilangan bilangan yang habis dibagi 3, 5, dan 7.
 		}
 	}	
 	cout << "-----------------------------------" <<endl;
-}
+	}
 
 ## Output 
   ![image](https://user-images.githubusercontent.com/119514056/209346456-79e2efc4-53cb-4c28-929e-3f459b52ea86.png)
